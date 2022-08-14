@@ -71,3 +71,14 @@ We are pursuing a Full Stack Web Development course at Masai school, In Masai sc
 ## Tools
 > • VS Code
 > • Github
+## Blog link
+> ### •[Blog](https://dinoutclone.hashnode.dev/find-the-best-restaurants-deals-discounts-and-offers-dinout)
+
+## Project link
+> ### •[Dineout](https://dineoutclone22.netlify.app/)
+
+## Github link
+> ### •[Dineout](https://github.com/Akash2377/cloneItDineout)
+
+## Winner of Presentation. Thank you Masai
+![Capture](https://cdn.hashnode.com/res/hashnode/image/upload/v1656852354649/iuJ5xGaBT.PNG)
