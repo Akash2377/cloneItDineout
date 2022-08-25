@@ -1,6 +1,17 @@
+# [Dineout-Clone](https://dineoutclone22.netlify.app/)
+<h2>Online OTT platform</h2>
+<h3>Dineout - The ultimate Dining out app you would ever need! Get the Dineout app to obtain maximum savings at your favourite restaurants.</h3>
+<h4>Tech Stack : HTML | CSS | JavaScript </h4>
+<h4>Features : </h4>
+<p>---> Sign Up | Login</p>
+<p>---> Landing Page| Profile Page | restaurants Page( Dynamic )</p>
+<p>---> Restaurant Booking page | Reservation Confirmation </p>
+<p>---> Reservation Cancel </p>
+<br />
+
 ## ** Problem statement**
 <br>
-Our Problem statement is creating a pixel-perfect clone of [Dinout](https://www.dineout.co.in/). Previously we did a clone of a few web pages but in this problem, we were supposed to make pages dynamic.
+Our Problem statement is creating a pixel-perfect clone of Dineout (https://www.dineout.co.in/) . Previously we did a clone of a few web pages but in this problem, we were supposed to make pages dynamic.
 
 ## ** The Idea**
 <br>
